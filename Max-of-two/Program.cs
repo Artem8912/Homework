@@ -1,17 +1,18 @@
-﻿int a = ConvertToInt32(Console.ReadLine());
-Console.WriteLine("Введите первое число");
-int b = ConvertToInt32(Console.ReadLine());
-Console.WriteLine("Введите первое число");
+﻿Console.Write("Введите первое число ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите второе число ");
+int b = Convert.ToInt32(Console.ReadLine());
+
 
 if (a >b) 
 {
-    Console.Write($"{a} - большее число");
-    Console.Write($"{b} - меньшее число");  
+    Console.WriteLine($"{a} - большее число");
+    Console.WriteLine($"{b} - меньшее число");  
     
 }
 
 else 
 {
-   Console.Write($"{b} - большее число");
-   Console.Write($"{a} - меньшее число"); 
+   Console.WriteLine($"{b} - большее число");
+   Console.WriteLine($"{a} - меньшее число"); 
 }
