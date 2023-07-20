@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\bin\Debug\net6.0\max-of-three.exe
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\bin\Debug\net6.0\max-of-three.deps.json
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\bin\Debug\net6.0\max-of-three.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\bin\Debug\net6.0\max-of-three.dll
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\bin\Debug\net6.0\max-of-three.pdb
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.dll
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\refint\max-of-three.dll
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.pdb
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\max-of-three.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Homework\max-of-three\obj\Debug\net6.0\ref\max-of-three.dll
