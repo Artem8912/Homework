@@ -4,15 +4,15 @@ Console.Write("Введите второе число ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 
-if (a >b) 
+if (a > b)
 {
     Console.WriteLine($"{a} - большее число");
-    Console.WriteLine($"{b} - меньшее число");  
-    
+    Console.WriteLine($"{b} - меньшее число");
+
 }
 
-else 
+else
 {
-   Console.WriteLine($"{b} - большее число");
-   Console.WriteLine($"{a} - меньшее число"); 
+    Console.WriteLine($"{b} - большее число");
+    Console.WriteLine($"{a} - меньшее число");
 }
