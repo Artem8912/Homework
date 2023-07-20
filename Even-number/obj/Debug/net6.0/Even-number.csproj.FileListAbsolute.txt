@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\bin\Debug\net6.0\Even-number.exe
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\bin\Debug\net6.0\Even-number.deps.json
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\bin\Debug\net6.0\Even-number.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\bin\Debug\net6.0\Even-number.dll
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\bin\Debug\net6.0\Even-number.pdb
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.dll
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\refint\Even-number.dll
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.pdb
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\Even-number.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Homework\Even-number\obj\Debug\net6.0\ref\Even-number.dll
