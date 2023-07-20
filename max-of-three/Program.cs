@@ -9,7 +9,7 @@ if (a > b)
 {
     if (a > c)
     {
-        Console.WriteLine($"{a} - максимальное число ");
+        Console.WriteLine($"{a} -  максимальное число ");
     }
 }
 else
